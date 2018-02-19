@@ -1,0 +1,21 @@
+﻿{
+	"is-c3-addon": true,
+	"type": "theme",
+	"name": "Rainbow Tabs",
+	"id": "RainbowTabs",
+	"version": "1.0.0.0",
+	"author": "Iain Shorter",
+	"icon-type": "image/svg+xml",
+	"website": "https://www.construct.net",
+	"documentation": "https://www.construct.net",
+	"description": "Makes pane tabs animate through a rainbow of colours...",
+	"stylesheets": [
+		"theme.css"
+	],
+	"file-list": [
+		"lang/en-US.json",
+		"addon.json",
+		"icon.svg",
+		"theme.css"
+	]
+}
